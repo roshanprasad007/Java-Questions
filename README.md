@@ -1,1 +1,6 @@
-# Java-Questions
+<h1 align="center">Java Problems</h1>
+
+<p>Try to slove the problems in different ways</p>
+<ol>
+  <li list-type="1">Write a program to print whether a number is even or odd, also take input from the user.</li>
+</ol>
